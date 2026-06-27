@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Secrets — never commit these
+.env
+firebase_config/
+*.json
+
